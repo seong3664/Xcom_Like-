@@ -1,0 +1,633 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Guard Avatar Mask
+  m_Mask: 00000000010000000000000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Guard_Body_01
+    m_Weight: 1
+  - m_Path: Guard_Body_02
+    m_Weight: 1
+  - m_Path: Guard_eye_lashes_white
+    m_Weight: 1
+  - m_Path: Guard_head_white
+    m_Weight: 1
+  - m_Path: Guard_Reference
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf/Bip001
+      L Foot
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf/Bip001
+      L Foot/Bip001 L Toe0
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf/Bip001
+      L Foot/bone_feet1_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf/bone_feet1_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_leg_L_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_leg_L_00/bone_leg_L_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_leg_L_00/bone_leg_L_01/bone_armor_sim_FL_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_leg_L_00/bone_leg_L_01/bone_armor_sim_FL_00/bone_armor_sim_FL_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_leg_L_00/bone_leg_L_01/bone_armor_sim_FL_00/bone_armor_sim_FL_01/bone_armor_sim_FL_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_leg_L_00/bone_leg_L_01/bone_armor_sim_FL_04
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_leg_L_00/bone_leg_L_01/bone_armor_sim_FL_04/bone_armor_sim_FL_05
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_leg_L_00/bone_leg_L_01/bone_armor_sim_FL_04/bone_armor_sim_FL_05/bone_armor_sim_FL_06
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_leg_L_00/bone_leg_L_01/bone_armor_sim_FL_08
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_leg_L_00/bone_leg_L_01/bone_armor_sim_FL_08/bone_armor_sim_FL_09
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_leg_L_00/bone_leg_L_01/bone_armor_sim_FL_08/bone_armor_sim_FL_09/bone_armor_sim_FL_10
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_strips_leg1_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_strips_leg1_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_strips_leg1_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 L Thigh/bone_strips_leg1_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf/Bip001
+      R Foot
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf/Bip001
+      R Foot/Bip001 R Toe0
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf/Bip001
+      R Foot/bone_feet2_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf/bone_feet2_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_leg_R_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_leg_R_00/bone_leg_R_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_leg_R_00/bone_leg_R_01/bone_armor_sim_FR_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_leg_R_00/bone_leg_R_01/bone_armor_sim_FR_00/bone_armor_sim_FR_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_leg_R_00/bone_leg_R_01/bone_armor_sim_FR_00/bone_armor_sim_FR_01/bone_armor_sim_FR_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_leg_R_00/bone_leg_R_01/bone_armor_sim_FR_04
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_leg_R_00/bone_leg_R_01/bone_armor_sim_FR_04/bone_armor_sim_FR_05
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_leg_R_00/bone_leg_R_01/bone_armor_sim_FR_04/bone_armor_sim_FR_05/bone_armor_sim_FR_06
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_leg_R_00/bone_leg_R_01/bone_armor_sim_FR_08
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_leg_R_00/bone_leg_R_01/bone_armor_sim_FR_08/bone_armor_sim_FR_09
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_leg_R_00/bone_leg_R_01/bone_armor_sim_FR_08/bone_armor_sim_FR_09/bone_armor_sim_FR_10
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_strips_leg2_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_strips_leg2_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_strips_leg2_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 R Thigh/bone_strips_leg2_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L ForeTwist
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L ForeTwist/Bip001 L ForeTwist1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001
+      L Finger01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001
+      L Finger01/Bip001 L Finger02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger1/Bip001
+      L Finger11
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger1/Bip001
+      L Finger11/Bip001 L Finger12
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger2
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger2/Bip001
+      L Finger21
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger2/Bip001
+      L Finger21/Bip001 L Finger22
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger3
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger3/Bip001
+      L Finger31
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger3/Bip001
+      L Finger31/Bip001 L Finger32
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger4
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger4/Bip001
+      L Finger41
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger4/Bip001
+      L Finger41/Bip001 L Finger42
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/bone_armor_hand1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/bone_armor_elbow1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/bone_armor_forearm1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/bone_strip_elbow1_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/bone_strip_elbow1_00/bone_strip_elbow1_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/bone_strip_elbow1_00/bone_strip_elbow1_01/bone_strip_elbow1_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/bone_strip_elbow1_00/bone_strip_elbow1_01/bone_strip_elbow1_02/bone_strip_elbow1_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 LUpArmTwist
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bip001 LUpArmTwist/Bip001 LUpArmTwist1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/Bone011
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/Bip001 L UpperArm/bone_armor_arm1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1_00/bone_bigstrip1_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1_00/bone_bigstrip1_01/bone_bigstrip1_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1_03/bone_bigstrip1_04
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1_03/bone_bigstrip1_04/bone_bigstrip1_05
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1_06
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1_07
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1b_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1b_00/bone_bigstrip1b_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1b_00/bone_bigstrip1b_01/bone_bigstrip1b_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1b_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1b_03/bone_bigstrip1b_04
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_bigstrip1b_03/bone_bigstrip1b_04/bone_bigstrip1b_05
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_smstrips_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      L Clavicle/bone_smstrips_00/bone_smstrips_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Neck
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Neck/Bip001 Head
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Neck/Bip001 Head/bone_eye_L
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Neck/Bip001 Head/bone_eye_R
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Neck/Bip001 Head/bone_eyelid_LD
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Neck/Bip001 Head/bone_eyelid_LU
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Neck/Bip001 Head/bone_eyelid_RD
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Neck/Bip001 Head/bone_eyelid_RU
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Neck/Bip001 Head/Point212
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Neck/Bip001 Head/Point212/Point211
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Neck/Bip001 Head/Point212/Point213
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R ForeTwist
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R ForeTwist/Bip001 R ForeTwist1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001
+      R Finger01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001
+      R Finger01/Bip001 R Finger02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger1/Bip001
+      R Finger11
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger1/Bip001
+      R Finger11/Bip001 R Finger12
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger2
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger2/Bip001
+      R Finger21
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger2/Bip001
+      R Finger21/Bip001 R Finger22
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger3
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger3/Bip001
+      R Finger31
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger3/Bip001
+      R Finger31/Bip001 R Finger32
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger4
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger4/Bip001
+      R Finger41
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger4/Bip001
+      R Finger41/Bip001 R Finger42
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/bone_armor_hand2
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/jntRifle1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/bone_armor_forearm2
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/bone_strip_elbow2_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/bone_strip_elbow2_00/bone_strip_elbow2_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/bone_strip_elbow2_00/bone_strip_elbow2_01/bone_strip_elbow2_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/bone_strip_elbow2_00/bone_strip_elbow2_01/bone_strip_elbow2_02/bone_strip_elbow2_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 RUpArmTwist
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bip001 RUpArmTwist/Bip001 RUpArmTwist1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/Bone034
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/bone_armor_arm2
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/Bip001 R UpperArm/bone_armor_elbow2
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2_00/bone_bigstrip2_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2_00/bone_bigstrip2_01/bone_bigstrip2_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2_03/bone_bigstrip2_04
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2_03/bone_bigstrip2_04/bone_bigstrip2_05
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2_06
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2_07
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2b_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2b_00/bone_bigstrip2b_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2b_00/bone_bigstrip2b_01/bone_bigstrip2b_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2b_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2b_03/bone_bigstrip2b_04
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_bigstrip2b_03/bone_bigstrip2b_04/bone_bigstrip2b_05
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_smstrips_07
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      R Clavicle/bone_smstrips_07/bone_smstrips_08
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_armor_back
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_armor_chest_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_armor_chest_00/bone_armor_chest_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_armor_chest_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_armor_chest_02/bone_armor_chest_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_armor_chest_04
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_armor_chest_04/bone_armor_chest_05
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_armpit1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_armpit2
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_bigstrip3_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_bigstrip3_00/bone_bigstrip3_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_bigstrip3_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_bigstrip3_01/bone_bigstrip3_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_bigstrip3_04
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_bigstrip4_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_bigstrip4_00/bone_bigstrip4_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_bigstrip4_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_bigstrip4_02/bone_bigstrip4_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_bigstrip4_04
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_02/bone_smstrips_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_02/bone_smstrips_03/bone_smstrips_04
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_02/bone_smstrips_03/bone_smstrips_04/bone_smstrips_05
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_02/bone_smstrips_03/bone_smstrips_04/bone_smstrips_05/bone_smstrips_06
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_09
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_09/bone_smstrips_10
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_09/bone_smstrips_10/bone_smstrips_11
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_09/bone_smstrips_10/bone_smstrips_11/bone_smstrips_12
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_09/bone_smstrips_10/bone_smstrips_11/bone_smstrips_12/bone_smstrips_13
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_14
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_14/bone_smstrips_15
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_16
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_16/bone_smstrips_17
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_18
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_18/bone_smstrips_19
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_20
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bone_smstrips_20/bone_smstrips_21
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/bone_belt1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/bone_belt2
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/bone_tube_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/bone_tube_00/bone_tube_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/bone_tube_00/bone_tube_01/bone_tube_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/bone_tube_00/bone_tube_01/bone_tube_02/bone_tube_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/bone_tube_00/bone_tube_01/bone_tube_02/bone_tube_03/bone_tube_04
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/bone_tube_00/bone_tube_01/bone_tube_02/bone_tube_03/bone_tube_04/bone_tube_05
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/Bip001 Spine/bone_tube_00/bone_tube_01/bone_tube_02/bone_tube_03/bone_tube_04/bone_tube_05/bone_tube_06
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_armor_crotch
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BL_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BL_00/bone_armor_sim_BL_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BL_00/bone_armor_sim_BL_01/bone_armor_sim_BL_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BL_00/bone_armor_sim_BL_01/bone_armor_sim_BL_02/bone_armor_sim_BL_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BL_05
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BL_05/bone_armor_sim_BL_06
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BL_05/bone_armor_sim_BL_06/bone_armor_sim_BL_07
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BL_05/bone_armor_sim_BL_06/bone_armor_sim_BL_07/bone_armor_sim_BL_08
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BL_10
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BL_10/bone_armor_sim_BL_11
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BL_10/bone_armor_sim_BL_11/bone_armor_sim_BL_12
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BL_10/bone_armor_sim_BL_11/bone_armor_sim_BL_12/bone_armor_sim_BL_13
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BR_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BR_00/bone_armor_sim_BR_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BR_00/bone_armor_sim_BR_01/bone_armor_sim_BR_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BR_00/bone_armor_sim_BR_01/bone_armor_sim_BR_02/bone_armor_sim_BR_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BR_05
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BR_05/bone_armor_sim_BR_06
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BR_05/bone_armor_sim_BR_06/bone_armor_sim_BR_07
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BR_05/bone_armor_sim_BR_06/bone_armor_sim_BR_07/bone_armor_sim_BR_08
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BR_10
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BR_10/bone_armor_sim_BR_11
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BR_10/bone_armor_sim_BR_11/bone_armor_sim_BR_12
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_armor_sim_BR_10/bone_armor_sim_BR_11/bone_armor_sim_BR_12/bone_armor_sim_BR_13
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_radio1
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3/bone_radio2
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3_chain_00
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3_chain_00/bone_belt3_chain_01
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3_chain_00/bone_belt3_chain_01/bone_belt3_chain_02
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3_chain_00/bone_belt3_chain_01/bone_belt3_chain_02/bone_belt3_chain_03
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3_chain_00/bone_belt3_chain_01/bone_belt3_chain_02/bone_belt3_chain_03/bone_belt3_chain_04
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/Bip001 Pelvis/bone_belt3_chain_00/bone_belt3_chain_01/bone_belt3_chain_02/bone_belt3_chain_03/bone_belt3_chain_04/bone_belt3_chain_05
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/RootMotion
+    m_Weight: 1
+  - m_Path: Guard_Reference/Bip001/zero_pos_rootmotion
+    m_Weight: 1
+  - m_Path: Guard_reflection_eyes_white
+    m_Weight: 1
+  - m_Path: zero_rot_rootmotion
+    m_Weight: 1

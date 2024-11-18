@@ -1,0 +1,19 @@
+# Visual Studio 관련 파일들
+.vs/
+.vsconfig
+*.user
+*.userprefs
+*.suo
+
+# 빌드/라이브러리 관련 폴더들
+Library/
+Temp/
+obj/
+Packages/
+
+# Unity 프로젝트 설정 관련 폴더들
+ProjectSettings/
+
+# 기타
+*.csproj
+*.sln

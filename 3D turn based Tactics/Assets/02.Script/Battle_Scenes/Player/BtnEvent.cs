@@ -15,15 +15,14 @@ public class BtnEvent : MonoBehaviour
 
     [SerializeField]
     AtkCamSet AtkCam;
-<<<<<<< HEAD
+
     [SerializeField]
     Draw_movearea draw_Movearea;
     [SerializeField]
     Image BulletCount;
     [SerializeField]
     private Transform MoveUi;
-=======
->>>>>>> parent of 5ecb678 (Revert "xcomlike")
+
     Unit_AniCtrl AniCtrl;
     Unit_Fire FireCtrl;
     public TMP_Text[] backGroundText;
@@ -33,10 +32,9 @@ public class BtnEvent : MonoBehaviour
     Transform Campos;
     Unit_crouch unitcrouch;
     AimCheck aimCheck;
-<<<<<<< HEAD
+
     int layerMask;
-=======
->>>>>>> parent of 5ecb678 (Revert "xcomlike")
+
     private void Awake()
     {
         BackGround = transform.GetChild(0).gameObject;
@@ -52,10 +50,9 @@ public class BtnEvent : MonoBehaviour
     }
     private void Start()
     {
-<<<<<<< HEAD
+
         layerMask = ~(1 << LayerMask.NameToLayer("Ragdoll"));
-=======
->>>>>>> parent of 5ecb678 (Revert "xcomlike")
+
         //for (int i = 1; i < Target_Change_Btns.Length; i++)
         //{
         //    int Index = i;
@@ -121,7 +118,7 @@ public class BtnEvent : MonoBehaviour
     private void ChangeTarget()
     {
         CanAtkE.Clear();
-<<<<<<< HEAD
+
         for (int i = 0; i < Target_Change_Btns.Length; i++)
             Target_Change_Btns[i].gameObject.SetActive(false);
 
@@ -145,7 +142,7 @@ public class BtnEvent : MonoBehaviour
                     buttonIndex++; // buttonIndex Áõ°¡
                 }
             }
-=======
+
         RaycastHit hit;
         Collider[] inrange = Physics.OverlapSphere(SelectUnit.position, 30f, 1 << 8);
 
@@ -160,7 +157,6 @@ public class BtnEvent : MonoBehaviour
                 Target_Change_Btns[i].onClick.AddListener(() => TargetChageBtn(index));
             }
 
->>>>>>> parent of 5ecb678 (Revert "xcomlike")
         }
 
         if (CanAtkE.Count > 0)
@@ -169,23 +165,19 @@ public class BtnEvent : MonoBehaviour
             ATK_Target = CanAtkE[0];
             int HitChance = aimCheck.HitChanceCheckTransform(SelectUnit, CanAtkE[0]);
             BackGround.SetActive(true);
-<<<<<<< HEAD
+
             backGroundText[0].text = $"Hit: {HitChance}%";
             backGroundText[1].text = $"{(UnitStat.stat.dmg - 1)}~{(UnitStat.stat.dmg + 1)} Dmg";
-=======
+
             backGroundText[0].text = $"Hit:{HitChance.ToString()}%";
             backGroundText[1].text = $"{(UnitStat.stat.dmg-1)}~{(UnitStat.stat.dmg + 1)} Dmg";
->>>>>>> parent of 5ecb678 (Revert "xcomlike")
             AniCtrl.AimAniSet(true);
 
             AtkCam.SetSelectUnitCam(SelectUnit, ATK_Target);
         }
     }
 
-<<<<<<< HEAD
 
-=======
->>>>>>> parent of 5ecb678 (Revert "xcomlike")
     public void TargetChageBtn(int index)
     {
         ATK_Target = CanAtkE[index].transform;
@@ -214,7 +206,7 @@ public class BtnEvent : MonoBehaviour
             AtkCam.OffAtkCam(SelectUnit);
             BtnEventSetUnit(SelectUnit);
             turnManager.TurnManager.state = TurnState.PlayerTurn;
-<<<<<<< HEAD
+
             draw_Movearea.isDraw = true;
             BulletCount.enabled = true;
             MoveUi.gameObject.SetActive(true);
@@ -222,12 +214,12 @@ public class BtnEvent : MonoBehaviour
             //{
             //    buttons[i].gameObject.SetActive(false);
             //}
-=======
+
             for (int i = 0; i < buttons.Length; i++)
             {
                 buttons[i].gameObject.SetActive(false);
             }
->>>>>>> parent of 5ecb678 (Revert "xcomlike")
+
             for (int i = 0; i < Target_Change_Btns.Length; i++)
             {
                 Target_Change_Btns[i].gameObject.SetActive(false);

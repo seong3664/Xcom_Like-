@@ -162,7 +162,7 @@ public class A_Grid : MonoBehaviour
             }
         }
     }
-<<<<<<< HEAD
+
     //#if UNITY_EDITOR
     //    // 에디터 모드에서 노드 생성
     //    [ContextMenu("Create Grid In Editor")]

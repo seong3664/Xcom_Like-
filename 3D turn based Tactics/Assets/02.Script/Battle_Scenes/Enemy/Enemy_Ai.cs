@@ -32,16 +32,16 @@ public class Enemy_Ai : Enemy_Select,IEnemy_Ai
     /// </summary>
     /// <param name="Unit"></param>
     /// <returns></returns>
-<<<<<<< HEAD
+
     public int EnemyMoveorAtk(Transform Unit)
-=======
+
     public bool EnemyMoveorAtk(Transform Unit)
 >>>>>>> parent of 5ecb678 (Revert "xcomlike")
     {
         PlayerUnits = GameObject.FindGameObjectsWithTag("Player");
         foreach (var Player in PlayerUnits)
         {
-<<<<<<< HEAD
+
 
             HitChance = HitchanceCheck.HitChanceCheckTransform(Unit, Player.transform);
             GethitChance = HitchanceCheck.HitChanceCheckTransform(Player.transform, Unit);

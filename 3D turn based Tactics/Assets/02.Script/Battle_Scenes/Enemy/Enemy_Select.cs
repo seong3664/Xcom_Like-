@@ -39,13 +39,13 @@ public class Enemy_Select : MonoBehaviour,IEnemy_Select
         //게임 매니저에 저장된 인 게임내 생존한 모든 에너미의 리스트를 가져옴
         for (int i = 0; i < EnemyList.Count; i++)
         {
-<<<<<<< HEAD
+
             EnemyListStat.Add(EnemyList[i].GetComponent<UnitStat>());
             //해당 에너미들의 스탯 가져옴
-=======
+
                 EnemyListStat.Add(EnemyList[i].GetComponent<UnitStat>());
                 //해당 에너미들의 스탯 가져옴
->>>>>>> parent of 5ecb678 (Revert "xcomlike")
+
         }
         for (int i = 0; i < EnemyList.Count; i++)
         {

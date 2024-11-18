@@ -3,10 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
-<<<<<<< HEAD
+
 using UnityEngine.ProBuilder.MeshOperations;
-=======
->>>>>>> parent of 5ecb678 (Revert "xcomlike")
 
 public class Enemy_Manager : MonoBehaviour
 {
@@ -18,11 +16,7 @@ public class Enemy_Manager : MonoBehaviour
     UnitStat SelectEnemy_stat;
     Unit_AniCtrl AniCtrl;
 
-<<<<<<< HEAD
 
-=======
-   
->>>>>>> parent of 5ecb678 (Revert "xcomlike")
     private void Awake()
     {
         enemy_select = GetComponent<IEnemy_Select>();
@@ -33,7 +27,7 @@ public class Enemy_Manager : MonoBehaviour
         turnManager.PlayerEndTurn += SetSelectEnemy;
         enemy_ctrl.OnEnemyActionCompleted += SetSelectEnemy;
     }
-<<<<<<< HEAD
+
 
     void SetSelectEnemy()
     {
